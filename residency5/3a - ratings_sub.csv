@@ -1,0 +1,10 @@
+userId,movieId,rating,timestamp,title,genres,year
+1,1,4,1111549459,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance,2000
+1,5,4,1111549392,Snatch (2000),Comedy|Crime|Thriller,2000
+1,3,4,1111559503,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,2000
+2,3,4.5,1283448812,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,2000
+2,4,4,1283448602,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,2001
+2,2,5,1301886634,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,2001
+3,5,1.5,1232476304,Snatch (2000),Comedy|Crime|Thriller,2000
+3,3,0.5,1231087717,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,2000
+3,4,3,1231087258,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,2001
